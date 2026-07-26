@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-52wtem.1depcasino.com/sitemap.xml
